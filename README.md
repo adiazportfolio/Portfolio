@@ -7,9 +7,10 @@
 - <b>SQL</b>
   - [Basic Skills](https://github.com/adiazportfolio/SQL) 
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Basic Skills](https://)
  
-
+<h2>📝 Education:</h2>
+<a href="https://i.imgur.com/8P405qL.jpeg">Google Cybersecurity Certificate</a>
 
 <h2> 🤳 Connect with me:</h2>
 
