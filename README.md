@@ -5,7 +5,7 @@
 - <b>Linux</b>
   - [Basic Skills](https://github.com/adiazportfolio/Linux)
 - <b>SQL</b>
-  - [Basic Skills](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Basic Skills](https://github.com/adiazportfolio/SQL) 
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  
