@@ -7,7 +7,7 @@
 - <b>SQL</b>
   - [Basic Skills](https://github.com/adiazportfolio/SQL) 
 - <b>Python</b>
-  - [Basic Skills](https://)
+  - [Basic Skills](https://github.com/adiazportfolio/Python)
  
 <h2>📝 Education:</h2>
 <a href="https://i.imgur.com/8P405qL.jpeg">Google Cybersecurity Certificate</a>
